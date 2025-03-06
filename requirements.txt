@@ -1,0 +1,6 @@
+pandas
+talib
+numpy
+iqoptionapi
+colorama
+pyfiglet
